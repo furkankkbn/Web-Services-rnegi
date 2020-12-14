@@ -1,0 +1,6 @@
+c:\users\furkan\documents\visual studio 2013\Projects\WebServis\WebServis\bin\WebServis.dll.config
+c:\users\furkan\documents\visual studio 2013\Projects\WebServis\WebServis\bin\WebServis.dll
+c:\users\furkan\documents\visual studio 2013\Projects\WebServis\WebServis\bin\WebServis.pdb
+c:\users\furkan\documents\visual studio 2013\Projects\WebServis\WebServis\obj\Debug\WebServis.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2013\Projects\WebServis\WebServis\obj\Debug\WebServis.dll
+c:\users\furkan\documents\visual studio 2013\Projects\WebServis\WebServis\obj\Debug\WebServis.pdb
